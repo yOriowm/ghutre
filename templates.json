@@ -1,39 +1,21 @@
 { "comment": "",
 
-"Sverigeflagga": {
-  "name": "_Sverigeflagga.png",
-  "x": -953,  "y": -577,
-  "width": 551, "height": 346
+,"--": {
+  "name": "--.png",
+  "x": 0,  "y": 0,
+  "width": 0, "height": 0
 }
 
-,"Boxxy": {
-  "name": "_Boxxy.png",
-  "x": -736,  "y": -630,
-  "width": 59, "height": 75
+,"--": {
+  "name": "--.png",
+  "x": 0,  "y": 0,
+  "width": 0, "height": 0
 }
 
-,"UK": {
-  "name": "UK-3.png",
-  "x": -292,  "y": 439,
-  "width": 591, "height": 240
-}
-
-,"North_UK": {
-  "name": "North_UK.png",
-  "x": -100,  "y": -3934,
-  "width": 444, "height": 275
-}
-
-,"England": {
-  "name": "england.png",
-  "x": -974,  "y": -1424,
-  "width": 366, "height": 232
-}
-
-,"USA": {
-  "name": "USA.png",
-  "x": -600,  "y": -1100,
-  "width": 400, "height": 208
+,"lobao-zone": {
+  "name": "lobao-zone.png",
+  "x": 658,  "y": 701,
+  "width": 340, "height": 270
 }
 
 ,"world": {
@@ -42,10 +24,10 @@
   "width": 1363, "height": 635
 }
 
-,"blondgirl": {
-  "name": "blondgirl.png",
-  "x": 3580,  "y": -3992,
-  "width": 252, "height": 212
+,"MegaBR": {
+  "name": "MegaBR.png",
+  "x": 2153,  "y": 3105,
+  "width": 1943, "height": 991
 }
 
 ,"turkey_big": {

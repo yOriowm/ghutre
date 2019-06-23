@@ -1,0 +1,60 @@
+{ "comment": "",
+
+"Sverigeflagga": {
+  "name": "_Sverigeflagga.png",
+  "x": -953,  "y": -577,
+  "width": 551, "height": 346
+}
+
+,"Boxxy": {
+  "name": "_Boxxy.png",
+  "x": -736,  "y": -630,
+  "width": 59, "height": 75
+}
+
+,"UK": {
+  "name": "UK-3.png",
+  "x": -292,  "y": 439,
+  "width": 591, "height": 240
+}
+
+,"North_UK": {
+  "name": "North_UK.png",
+  "x": -100,  "y": -3934,
+  "width": 444, "height": 275
+}
+
+,"England": {
+  "name": "england.png",
+  "x": -974,  "y": -1424,
+  "width": 366, "height": 232
+}
+
+,"USA": {
+  "name": "USA.png",
+  "x": -600,  "y": -1100,
+  "width": 400, "height": 208
+}
+
+,"world": {
+  "name": "world-01template.png",
+  "x": -273,  "y": 1728,
+  "width": 1363, "height": 635
+}
+
+,"blondgirl": {
+  "name": "blondgirl.png",
+  "x": 3580,  "y": -3992,
+  "width": 252, "height": 212
+}
+
+,"turkey_big": {
+  "name": "turkey_big.png",
+  "x": -4096,  "y": 3295,
+  "width": 1307, "height": 802
+}
+
+
+
+
+}

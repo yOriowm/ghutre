@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         PZone Minimap meatie
+// @name         MinimapUno
 // @namespace    http://tampermonkey.net/
 // @version      1.6.4
 // @description  -
-// @author       meatie
+// @author       --------------
 // @match        https://pixelzone.io/*
-// @homepage     https://github.com/meatie-se/pixel-minimap
-// @updateURL    https://raw.githubusercontent.com/meatie-se/pixel-minimap/master/minimap_meatie.js
+// @homepage     --------------
+// @updateURL    https://raw.githubusercontent.com/SomeDaquiMeu/ghutre/master/minimap_meatie.js
 // @grant        none
 // ==/UserScript==
-/*Based on https://github.com/Pinkfloydd/ArgentinaMap_PixelZone
+/*Based on --------------
 
 Instructions
 

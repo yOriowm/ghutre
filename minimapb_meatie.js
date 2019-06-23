@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         PZone MinimapB meatie
+// @name         MinimapPbUno
 // @namespace    http://tampermonkey.net/
 // @version      1.0.2
 // @description  Only tested on Chrome
-// @author       meatie
+// @author       --------------
 // @match        https://pixelzone.io/*
-// @homepage     https://github.com/meatie-se/pixel-minimap
-// @updateURL    https://raw.githubusercontent.com/meatie-se/pixel-minimap/master/minimapb_meatie.js
+// @homepage     --------------
+// @updateURL    https://raw.githubusercontent.com/SomeDaquiMeu/ghutre/master/minimapb_meatie.js
 // @grant        none
 // ==/UserScript==
-/*Based on minimap: https://github.com/Pinkfloydd/ArgentinaMap_PixelZone
+/*Based on minimap: --------------
 Instructions
 Use Tampermonkey plugin to inject this into the game. Add a script, paste in the code.
 Images and the template list (templates.json) need to be on a https: server. Github is possibly

@@ -57,7 +57,7 @@ const verify_x = -882, verify_y = -553; //key V: Verify location
 const circle_size = 5;
 
 // Default location of template images and templates.json. Is user input and stored in a cookie.
-var baseTemplateUrl = 'https://raw.githubusercontent.com/meatie-se/pixel-minimap/master/';
+var baseTemplateUrl = 'https://raw.githubusercontent.com/SomeDaquiMeu/ghutre/master/';
 var zoomlevel, zooming_out, zooming_in, zoom_time, x_world, y_world, centerx, centery;
 var coorDOM, gameWindow;
 var toggle_show, counter, image_list, needed_templates, mousemoved;

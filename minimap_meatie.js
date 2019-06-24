@@ -36,7 +36,7 @@ listTemplates()
 */
 
 // Default location of template images and templates.json. Is user input and stored in a cookie.
-var baseTemplateUrl = 'https://raw.githubusercontent.com/meatie-se/pixel-minimap/master/'; //only as default
+var baseTemplateUrl = 'https://raw.githubusercontent.com/SomeDaquiMeu/ghutre/master/'; //only as default
 var vers = "Minimap: meatie";
 var range = 6; //margin for showing the map window
 

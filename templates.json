@@ -70,6 +70,20 @@
   "name": "ukflag.png",
   "x": -1194,  "y": 3268,
   "width": 721, "height": 406
+
+}
+
+,"pato": {
+  "name": "pato.png",
+  "x": 1323,  "y": 777,
+  "width": 190, "height": 107
+
+}
+
+,"discord-1": {
+  "name": "discord-1.png",
+  "x": 2702,  "y": 3010,
+  "width": 846, "height": 95
 }
 
 
